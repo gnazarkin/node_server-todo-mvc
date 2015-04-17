@@ -1,0 +1,1 @@
+/Users/glebnazarkin/Desktop/code/todo-mvc/client/tmp/funnel-dest_QsTgpc.tmp/ember-qunit-notifications/CONTRIBUTING.md

@@ -1,0 +1,10 @@
+define('todo-mvc/tests/unit/models/todo-test.jshint', function () {
+
+  'use strict';
+
+  module('JSHint - unit/models');
+  test('unit/models/todo-test.js should pass jshint', function() { 
+    ok(true, 'unit/models/todo-test.js should pass jshint.'); 
+  });
+
+});

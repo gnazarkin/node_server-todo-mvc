@@ -1,0 +1,1 @@
+/Users/glebnazarkin/Desktop/code/todo-mvc/client/tmp/jshinter-tmp_dest_dir-RrJq1OsO.tmp/unit/controllers/todos-test.jshint.js

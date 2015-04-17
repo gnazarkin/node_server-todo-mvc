@@ -1,0 +1,1 @@
+/Users/glebnazarkin/Desktop/code/todo-mvc/client/tmp/caching-writer-dest-dir_vKjTiq.tmp/assets/todo-mvc.js
